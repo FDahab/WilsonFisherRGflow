@@ -1,0 +1,1 @@
+Este repositório contém os arquivos de simulações do Renormalization Group (RG) flow do modelo de Wilson Fischer. Esta simulação foi feita como parte do meu projeto de iniciação científica em Teoria Quântica de Campos sob orientação do professor Ricardo D'Elia Matheus.
